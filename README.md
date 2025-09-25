@@ -12,4 +12,4 @@ In addition to my reporting and writing, I have been building multimedia skills 
 
 Data from the Lehigh University Institution of Data Center shows that the College of Engineering and Applied Sciences undergraduate population is mainly male. In the past four years, females have made up between 28-33% of the colleges student population. The number is slowly increasing year over year, with 2024 having the largest percentage of female students (496 students, or 33% of the college). 
 
-![IMG] https://github.com/lolaoffenback/lolaoffenback.github.io/blob/main/LU%20Enrollment%20.png?raw=true
+![IMG](https://github.com/lolaoffenback/lolaoffenback.github.io/blob/main/LU%20Enrollment%20.png?raw=true)
