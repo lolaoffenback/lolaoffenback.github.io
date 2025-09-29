@@ -18,4 +18,4 @@ Data from the Lehigh University Institution of Data Center shows that the Colleg
 
 Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania Annual Report shows that tourism is steadily on the rise in the state and in the Lehigh Valley. There are many contributing factors in Bethlehem that have helped increase tourism to the area, including the newly designated UNESCO Moravian World Heritage Site, Historic Hotel Bethlehem positioning and promoting itself as an international travel destination, and multiple cultural festivals (including Musikfest, Celtic Classic, Oktoberfest, and more). The region and state are steadily recovering from COVID-19 travel declines. 
 
-![IMG] 
+![IMG](https://github.com/lolaoffenback/lolaoffenback.github.io/blob/main/Blue%20Simple%20Effective%20Communication%20Infographic.png?raw=true)
