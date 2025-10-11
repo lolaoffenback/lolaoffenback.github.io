@@ -23,3 +23,7 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 ## Lehigh-Lafayette Rivalry 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTjF60s93WPQDYkcwDqki_C8aHFHOXr0pipd-ZBN_CzTE9PJh4d-GsZJ2lMhr6iQvct_kIgkLAs8wjE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Moravians Founding Bethlehem: A Timeline 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQGLQhH581aSFEDPn2HmxTt9hjzFN_lEqSRx-Mu064rij9xN3hP3hNE92Z24EkbBgtaBU2dLvgRvzLo&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
