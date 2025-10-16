@@ -35,6 +35,6 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 
 ## Lehigh University Student Enrollment Over 10 Years 
 
-<img width="1240" height="916" alt="FP5Es-lehigh-university-enrollment-yearly-" src="https://github.com/user-attachments/assets/aafe071b-1a3e-44e9-8172-f2399dd82f89" />
+<img width="1240" height="916" alt="FP5Es-lehigh-university-enrollment-yearly- (1)" src="https://github.com/user-attachments/assets/9f9177fd-36e0-4238-84b5-22895c58738d" />
 
 
