@@ -28,3 +28,7 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQGLQhH581aSFEDPn2HmxTt9hjzFN_lEqSRx-Mu064rij9xN3hP3hNE92Z24EkbBgtaBU2dLvgRvzLo&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## 2020 Lehigh University Enrollment Data 
+
+
+<img width="1240" height="1242" alt="FP5Es-2020-lehigh-university-college-enrollment-" src="https://github.com/user-attachments/assets/4993e312-9742-4da7-a04f-e55c0f156d22" />
