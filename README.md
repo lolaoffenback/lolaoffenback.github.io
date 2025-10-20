@@ -37,4 +37,7 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 
 <img width="1240" height="916" alt="FP5Es-lehigh-university-enrollment-yearly- (1)" src="https://github.com/user-attachments/assets/9f9177fd-36e0-4238-84b5-22895c58738d" />
 
+## Moravian University Student Enrollment 2024 
+
+<img width="1240" height="820" alt="XRWV2-moravian-university-2024-student-enrollment-nbsp-" src="https://github.com/user-attachments/assets/e8e1088e-d9e3-4cf7-ad47-d372797a2966" />
 
