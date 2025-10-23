@@ -45,3 +45,6 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14hUZesxf7B2sEwtJYNlTBzrmDCLiIW8&ehbc=2E312F" width="640" height="480"></iframe>
 
+## U.S. Concert Deserts: A Case Study
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=13z-5Tb3WDSRfN8d6samXbKth9tOebrc&ehbc=2E312F" width="640" height="480"></iframe>
