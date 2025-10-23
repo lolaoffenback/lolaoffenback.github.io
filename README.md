@@ -41,3 +41,7 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 
 <img width="1240" height="820" alt="XRWV2-moravian-university-2024-student-enrollment-nbsp-" src="https://github.com/user-attachments/assets/e8e1088e-d9e3-4cf7-ad47-d372797a2966" />
 
+## 2019 Top 20 Cycling Cities 
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14hUZesxf7B2sEwtJYNlTBzrmDCLiIW8&ehbc=2E312F" width="640" height="480"></iframe>
+
