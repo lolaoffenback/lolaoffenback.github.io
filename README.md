@@ -9,6 +9,8 @@ I am a senior at Moravian University studying English writing arts and multimedi
 In addition to my reporting and writing, I have been building multimedia skills in journalism and other adjacent fields. I am the Editor-in-Chief of The Manuscript literary magazine, where I oversee edit and layout of a yearly print and online product. I have experience with InDesign for both newspaper and magazine layouts. I launched the podcast Mo' to Write for Moravian's Writing Center, covering writing techniques, concepts, pedagogy, and more. I am now working on a passion project podcast about navigating life as a woman in your 20s. I have taken countless images for The Comenian's webpage and social media, and took a Digital Photography class to further hone my skills.
 
 
+
+
 ## Lehigh University College of Engineering and Applied Sciences Enrollment by Sex 
 
 Data from the Lehigh University Institution of Data Center shows that the College of Engineering and Applied Sciences undergraduate population is mainly male. In the past four years, females have made up between 28-33% of the colleges student population. The number is slowly increasing year over year, with 2024 having the largest percentage of female students (496 students, or 33% of the college). 
