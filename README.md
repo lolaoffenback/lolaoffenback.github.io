@@ -2,7 +2,7 @@
 
 ## About me!
 
-<img src="https://github.com/user-attachments/assets/bdf6a8d0-e41f-4b9e-8730-5a81d2f0d88e" style="width:50%; height:50%;" align="right" src="doc/subpagelist.png">
+![IMG_6534](https://github.com/user-attachments/assets/bdf6a8d0-e41f-4b9e-8730-5a81d2f0d88e)
 
 I am a senior at Moravian University studying English writing arts and multimedia journalism. I have written for [The Comenian Newspaper] (https://comenian.org/staff_name/lola-offenback/) since my freshman year and am now the managing editor. Additionally, I guest-reported for Lehigh Daily and interned for Haymarket Media, writing for MM+M, a medical marketing news outlet. Community is at the heart of my reporting. I want my articles to provide unbiased, accessible information for the public to make informed decisions in their everyday lives! 
 
