@@ -2,7 +2,7 @@
 
 ## About me!
 
-I am a senior at Moravian University studying English writing arts and multimedia journalism. I have written for [The Comenian Newspaper] (https://comenian.org/staff_name/lola-offenback/) since my freshman year and am now the managing editor. Additionally, I guest-reported for Lehigh Daily and interned for Haymarket Media, writing for MM+M, a medical marketing news outlet. Community is at the heart of my reporting. I want my articles to provide unbiased, accessible information for the public to make informed decisions in their everyday lives! 
+I am a senior at Moravian University studying English writing arts and multimedia journalism. I have written for The Comenian Newspaper since my freshman year and am now the managing editor. Additionally, I guest-reported for Lehigh Daily and interned for Haymarket Media, writing for MM+M, a medical marketing news outlet. Community is at the heart of my reporting. I want my articles to provide unbiased, accessible information for the public to make informed decisions in their everyday lives! 
 
 In addition to my reporting and writing, I have been building multimedia skills in journalism and other adjacent fields. I am the Editor-in-Chief of The Manuscript literary magazine, where I oversee edit and layout of a yearly print and online product. I have experience with InDesign for both newspaper and magazine layouts. I launched the podcast Mo' to Write for Moravian's Writing Center, covering writing techniques, concepts, pedagogy, and more. I am now working on a passion project podcast about navigating life as a woman in your 20s. I have taken countless images for The Comenian's webpage and social media, and took a Digital Photography class to further hone my skills.
 
@@ -22,34 +22,49 @@ Data from visitpa.com from the 2024 Economic Impact of Visitors in Pennsylvania 
 
 ## Lehigh-Lafayette Rivalry 
 
+This timeline offers a glimpse at the history of the Lehigh University and Lafayette University rivalry. Commonly known as the Leh-Laf rivalry, these two D1 Lehigh Valley colleges have competed against each other for many years. 
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTjF60s93WPQDYkcwDqki_C8aHFHOXr0pipd-ZBN_CzTE9PJh4d-GsZJ2lMhr6iQvct_kIgkLAs8wjE&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Moravians Founding Bethlehem: A Timeline 
+
+This timeline offers a brief history of the Moravian settlers who founded Bethlehem, PA. The timeline looks at the buildings that had a lasting impact and allowed the Moravians to grow and thrive in Bethlehem, making the city what is it today. Now, some of these buildings are part of the first trans-national UNESCO World Heritage Site, alongisde other international Moravian settlements. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQGLQhH581aSFEDPn2HmxTt9hjzFN_lEqSRx-Mu064rij9xN3hP3hNE92Z24EkbBgtaBU2dLvgRvzLo&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## 2020 Lehigh University Enrollment Data 
 
+This pie chart looks at enrollment, by college, at Lehigh University in 2020. The data was collected from the Lehigh University Office of Institutional Research and was visualized on Datawrapper. 
 
 <img width="1240" height="1242" alt="FP5Es-2020-lehigh-university-college-enrollment-" src="https://github.com/user-attachments/assets/4993e312-9742-4da7-a04f-e55c0f156d22" />
 
 ## Lehigh University Student Enrollment Over 10 Years 
 
+This line chart shows enrollment at Lehigh University across a ten year period. Specifically, the chart looks at the colleges of Arts & Sciences, Engineering, and Business. 
+
 <img width="1240" height="916" alt="FP5Es-lehigh-university-enrollment-yearly- (1)" src="https://github.com/user-attachments/assets/9f9177fd-36e0-4238-84b5-22895c58738d" />
 
 ## Moravian University Student Enrollment 2024 
+
+This bar chart shows the enrollment of graduate and undergraduate students at Moravian University in 2024. The data was visualized on Datawrapper. 
 
 <img width="1240" height="820" alt="XRWV2-moravian-university-2024-student-enrollment-nbsp-" src="https://github.com/user-attachments/assets/e8e1088e-d9e3-4cf7-ad47-d372797a2966" />
 
 ## 2019 Top 20 Cycling Cities 
 
+This map shows the top 20 cycling cities in 2019, with each city's ranking and a brief description. 
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=14hUZesxf7B2sEwtJYNlTBzrmDCLiIW8&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## U.S. Concert Deserts: A Case Study
 
+This map is a brief case study mapping where tours are held in the U.S. The map is framed by Taylor Swift's Eras Tour locations, compared to small artist Sydney Rose's small, debut tour, up-and-coming artist sombr's Late Nights and Young Romances tour, and long-time band The Lumineer's The Automatics World Tour. A full article analyzing where concerts are lacking can be found in Staged magazine's October 2025 issue. 
+
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=13z-5Tb3WDSRfN8d6samXbKth9tOebrc&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## 2013 Higher Education IPEDS Data
+
+This map shows IPDES data of 2013 higher education institutions organized by size, area, and sectors. 
 
 <div class='tableauPlaceholder' id='viz1762442849214' style='position: relative'><noscript><a href='#'><img alt='2013 Higher Education IPEDS Data ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IP&#47;IPEDSData_17624425718890&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;IPEDSData_17624425718890&#47;Story1?:language=en-US&amp;:embed=true&amp;publish=yes&amp;:sid=&amp;:redirect=auth' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IP&#47;IPEDSData_17624425718890&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1762442849214'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
 
